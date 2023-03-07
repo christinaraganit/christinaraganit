@@ -28,7 +28,7 @@ British Columbia Institute of Technology
       <td width="50%">:medal_sports: <b>Judges' Choice award at RootHacks 2023</b> with the project Misfortune Cookie<br/><i>Awarded March 2023</i></td>
     </tr>
     <tr>
-      <td width="50%"><img src="https://github.com/christinaraganit/christinaraganit/blob/main/toneteller.png"/></td>
+      <td width="50%"><img src="https://github.com/christinaraganit/christinaraganit/blob/main/toneteller-landing.png"/></td>
       <td width="50%">:medal_sports: <b>2nd place winner of HackED 2023</b> with the project Toneteller<br/><i>Awarded January 2023</i></td>
     </tr>
    <tr>
