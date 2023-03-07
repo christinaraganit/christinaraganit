@@ -15,14 +15,28 @@ Tech Entrepreneurship, Computer Systems Technology
 British Columbia Institute of Technology
 
 ### Awards
-| Project | Award |
-| ----------- | ----------- |
-| Header      | Title |
-| Paragraph   | First paragraph. <br><br> Second paragraph. |
-
-- :medal_sports: **Judges' Choice award at RootHacks 2023** with the project Misfortune Cookie, awarded March 2023
-- :2nd_place_medal: **2nd place winner of HackED 2023** with the project Toneteller, awarded January 2023
-- :medal_sports: Most Useful App award with the project AirTutor, awarded May 2020 
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="50%">Project</th>
+      <th width="50%">Award</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td width="50%"><img src="https://github.com/christinaraganit/christinaraganit/blob/main/misfortune-cookies.png"/></td>
+      <td width="50%">:medal_sports: <b>Judges' Choice award at RootHacks 2023</b> with the project Misfortune Cookie<br/><i>Awarded March 2023</i></td>
+    </tr>
+    <tr>
+      <td width="50%"><img src="https://github.com/christinaraganit/christinaraganit/blob/main/toneteller.png"/></td>
+      <td width="50%">:medal_sports: <b>2nd place winner of HackED 2023</b> with the project Toneteller<br/><i>Awarded January 2023</i></td>
+    </tr>
+   <tr>
+      <td width="50%"><img src="https://github.com/christinaraganit/christinaraganit/blob/main/toneteller.png"/></td>
+      <td width="50%">:medal_sports: <b>Most Useful App</b> award with the project AirTutor<br/><i>Awarded May 2020</i></td>
+    </tr>
+  </tbody>
+</table>
 
 ### Honours
 - :medal_military: Computer Systems Technology Tech Entrepreneurship Award, awarded May 2021
