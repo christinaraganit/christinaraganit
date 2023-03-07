@@ -9,9 +9,7 @@
 - :keyboard: Technical stack: HTML, CSS/Sass, JavaScript, React, Next.js, Svelte
 
 ### 💖 Interests
-- 📏 UI design
-- 🎨 Visual design
-- :brain: UX design
+📏 UI design, 🎨 Visual design, and :brain: UX design
 
 ### 🛠️ Tools and technologies
 - 📐 Design: Figma, Adobe XD, Illustrator, Photoshop, InDesign, AfterEffects, Premiere Pro
@@ -52,3 +50,7 @@
 - President's Entrance Award at British Columbia Institute of Technology, awarded September 2019
 - District Authority Awward in Computer Programming, awarded June 2019
 - BC Excellence Award, awarded June 2019
+
+### 💛 Hobbies
+- Video games (League of Legends, Teamfight Tactics)
+- Reading and writing fantasy/romance novels
