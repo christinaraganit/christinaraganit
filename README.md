@@ -32,7 +32,7 @@ British Columbia Institute of Technology
       <td width="50%">:medal_sports: <b>2nd place winner of HackED 2023</b> with the project Toneteller<br/><i>Awarded January 2023</i></td>
     </tr>
    <tr>
-      <td width="50%"><img src="https://github.com/christinaraganit/christinaraganit/blob/main/toneteller.png"/></td>
+      <td width="50%"><img src="https://github.com/christinaraganit/christinaraganit/blob/main/air-tutor.png"/></td>
       <td width="50%">:medal_sports: <b>Most Useful App</b> award with the project AirTutor<br/><i>Awarded May 2020</i></td>
     </tr>
   </tbody>
