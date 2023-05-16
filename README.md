@@ -31,8 +31,16 @@
   </thead>
   <tbody>
     <tr>
+      <td width="35%"><img src="https://github.com/christinaraganit/christinaraganit/blob/main/proud-zebra.png"/></td>
+      <td width="50%"><b>First Place Winner of Eunoia UX Hackathon 2023</b> with a solution for Proud Zebra<br><i>Awarded March 2023</i></td>
+    </tr>
+    <tr>
+      <td width="35%"><img src="https://github.com/christinaraganit/christinaraganit/blob/main/chow-now-cover.png"/></td>
+      <td width="50%"><b>Iris Labs' Best Design Award at cmd-f 2023</b> and <b>First Place at cmd-f 2023</b> with the project Chow Now<br><i>Awarded March 2023</i></td>
+    </tr>
+    <tr>
       <td width="35%"><img src="https://github.com/christinaraganit/christinaraganit/blob/main/misfortune-cookies.png"/></td>
-      <td width="50%"><b>Judges' Choice award at RootHacks 2023</b> with the project Misfortune Cookie<br/><i>Awarded March 2023</i> </p></td>
+      <td width="50%"><b>Judges' Choice award at RootHacks 2023</b> with the project Misfortune Cookie<br/><i>Awarded March 2023</i></td>
     </tr>
     <tr>
       <td width="35%"><img src="https://github.com/christinaraganit/christinaraganit/blob/main/toneteller-landing.png"/></td>
