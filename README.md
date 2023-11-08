@@ -1,11 +1,11 @@
 # Hi! Christina here 👋
 
 ### 🤓 About me
-- :coin: UX Designer at Felix Payment Systems 
-- :school: 2nd year student in SFU's Interactive Arts and Technology
-- :computer: Graduate from BCIT's Computer Systems Technology
+- 📐 User Experience Designer
+- :school: 3rd year at SFU's Interactive Arts and Technology, Design Concentration
+- :computer: Graduate from BCIT's Computer Systems Technology, Tech Entrepreneurship
 - :smiling_face_with_three_hearts: Loves UI/UX design and frontend development
-- :straight_ruler: Design stack: Figma, Adobe XD, Adobe Creative Suite
+- :straight_ruler: Design stack: Figma, Adobe XD, Adobe Creative Suite (Illustrator, Photoshop)
 - :keyboard: Technical stack: HTML, CSS/Sass, JavaScript, React, Next.js, Svelte
 
 ### 💖 Interests
