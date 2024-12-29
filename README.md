@@ -1,19 +1,20 @@
 # Hi! Christina here 👋
 
 ### 🤓 About me
-- 📐 User Experience Designer
-- :school: 3rd year at SFU's Interactive Arts and Technology, Design Concentration
+- 📐 User Experience Designer, currently interning at SAP
+- 💛 Previously interned at Felix Payment Systems and Karma Well Health Technologies
+- :school: 4th year at SFU's Interactive Arts and Technology, Design Concentration
 - :computer: Graduate from BCIT's Computer Systems Technology, Tech Entrepreneurship
 - :smiling_face_with_three_hearts: Loves UI/UX design and frontend development
 - :straight_ruler: Design stack: Figma, Adobe XD, Adobe Creative Suite (Illustrator, Photoshop)
-- :keyboard: Technical stack: HTML, CSS/Sass, JavaScript, React, Next.js, Svelte
+- :keyboard: Technical stack: HTML, CSS/Sass/Tailwind CSS, JavaScript, React, Next.js
 
 ### 💖 Interests
-📏 UI design, 🎨 Visual design, and :brain: UX design
+📏 Design engineering, 🎨 UI design, and :brain: UX design
 
 ### 🛠️ Tools and technologies
-- 📐 Design: Figma, Adobe XD, Illustrator, Photoshop, InDesign, AfterEffects, Premiere Pro
-- 💻 Development: HTML, CSS, Sass, JavaScript, React, Next.js, Svelte, Python, Java, Processing
+- 📐 Design: Figma, Adobe XD, Illustrator, Photoshop, InDesign, After Effects, Premiere Pro
+- 💻 Development: HTML, CSS, Sass, Tailwind CSS, JavaScript, React, Next.js, Svelte, Python, Java, Processing
 
 ### 📚 Education
 | :scroll: Certification | :school: Institution |
@@ -54,6 +55,9 @@
 </table>
 
 ### 🎖️ Honours
+- Dean's Honour Roll at Simon Fraser University, awarded September 2024
+- Nancy Morrison and Fraser Green Special Abilities Award, awarded October 2023
+- Undergraduate Open Scholarship at Simon Fraser University, awarded October 2023 and January 2024
 - Computer Systems Technology Tech Entrepreneurship Award, awarded May 2021
 - President's Entrance Award at British Columbia Institute of Technology, awarded September 2019
 - District Authority Awward in Computer Programming, awarded June 2019
