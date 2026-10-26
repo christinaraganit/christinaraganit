@@ -1,26 +1,23 @@
 # Hi! Christina here 👋
 
 ### 🤓 About me
-- 📐 User Experience Designer, currently interning at SAP
-- 💛 Previously interned at Felix Payment Systems and Karma Well Health Technologies
-- :school: 4th year at SFU's Interactive Arts and Technology, Design Concentration
+- 📐 Design Engineer
+- 💛 Previously interned at Google, Asana, SAP, Felix Payment Systems and Karma Well Health Technologies
+- :school: Graduate from SFU's Interactive Arts and Technology, Design Concentration
 - :computer: Graduate from BCIT's Computer Systems Technology, Tech Entrepreneurship
-- :smiling_face_with_three_hearts: Loves UI/UX design and frontend development
-- :straight_ruler: Design stack: Figma, Adobe XD, Adobe Creative Suite (Illustrator, Photoshop)
-- :keyboard: Technical stack: HTML, CSS/Sass/Tailwind CSS, JavaScript, React, Next.js
 
 ### 💖 Interests
-📏 Design engineering, 🎨 UI design, and :brain: UX design
+📏 Design engineering, 🎨 UI design, and :brain: UX design, and frontend development
 
 ### 🛠️ Tools and technologies
-- 📐 Design: Figma, Adobe XD, Illustrator, Photoshop, InDesign, After Effects, Premiere Pro
-- 💻 Development: HTML, CSS, Sass, Tailwind CSS, JavaScript, React, Next.js, Svelte, Python, Java, Processing
+- 📐 Design: Figma, LottieLabs, Adobe XD, Adobe Creative Suite (Illustrator, Photoshop)
+- 💻 Development: Cursor, Claude Code, HTML, CSS/Sass/Tailwind CSS, JavaScript, React, Next.js
 
 ### 📚 Education
 | :scroll: Certification | :school: Institution |
 | ----------- | ------------------------------------------------------- |
-| **BSci in Interactive Arts and Technology** | **Simon Fraser University**, Canada<br>May 2021—Present |
-| **Diploma in Computer Systems Technology**<br>Tech Entrepreneurship | **British Columbia Institute of Technology**, Canada<br> Graduated with disctinction <br>September 2019—May 2021 |
+| **Bachelor of Science in Interactive Arts and Technology** | **Simon Fraser University**, Canada<br>May 2021—September 2026 |
+| **Diploma in Computer Systems Technology**<br>Tech Entrepreneurship | **British Columbia Institute of Technology**, Canada<br> Graduated with disctinction |
 
 ### 🏅 Awards
 <table width="100%">
