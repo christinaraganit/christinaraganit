@@ -51,14 +51,26 @@
   </tbody>
 </table>
 
+### 🎖️ Hackathon Awards
+- Honourable Mention at FigBuild 2026
+- 2nd Place at CreateSC 2025
+- 2nd Place at StormHacks 2023
+- Best Design at StormHacks 2023
+- 1st Place at Eunoia UX Hackathon
+- 1st Place at cmd-f 2023
+- Best Design at cmd-f 2023
+- Judge's Choice Award at RootHacks 2023
+- 2nd Place at HackED 2023
+
 ### 🎖️ Honours
-- Dean's Honour Roll at Simon Fraser University, awarded September 2024
-- Nancy Morrison and Fraser Green Special Abilities Award, awarded October 2023
-- Undergraduate Open Scholarship at Simon Fraser University, awarded October 2023 and January 2024
-- Computer Systems Technology Tech Entrepreneurship Award, awarded May 2021
-- President's Entrance Award at British Columbia Institute of Technology, awarded September 2019
-- District Authority Awward in Computer Programming, awarded June 2019
-- BC Excellence Award, awarded June 2019
+- Dean's Honour Roll at Simon Fraser University, Fall 2024
+- Nancy Morrison and Fraser Green Special Abilities Award
+- Undergraduate Open Scholarship at Simon Fraser University, Spring 2024
+- Undergraduate Open Scholarship at Simon Fraser University, Fall 2023
+- Computer Systems Technology Tech Entrepreneurship Award, 2021
+- President's Entrance Award at British Columbia Institute of Technology
+- District Authority Awward in Computer Programming
+- BC Excellence Award
 
 ### 💛 Hobbies
 - Video games (League of Legends, Teamfight Tactics)
